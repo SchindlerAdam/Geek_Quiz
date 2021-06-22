@@ -9,8 +9,6 @@ object Constants {
 
         val questionsList = ArrayList<Questions>()
 
-        // Létrehozunk 10 db példányt a Questions osztályból!
-
         val questionOne = Questions(
             1,
             "What is this logo for?",
